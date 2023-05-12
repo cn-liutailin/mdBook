@@ -182,7 +182,7 @@ page-break = true # insert page-break after each chapter
 
 - **enable:** Enable print support. When `false`, all print support will not be
   rendered. Defaults to `true`.
-- **page-break** Insert page breaks between chapters. Defaults to `true`.
+- **page-break:** Insert page breaks between chapters. Defaults to `true`.
 
 ### `[output.html.fold]`
 
